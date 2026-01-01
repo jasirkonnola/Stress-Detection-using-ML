@@ -1,7 +1,8 @@
 # Stress Detection AI 🧠
 
 A Machine Learning powered web application that predicts stress levels based on physiological data. It provides real-time analysis, personalized recommendations, and finds nearby stress relief places.
-
+![App Screenshot](https://github.com/jasirkonnola/rag_project/blob/main/Stress-Detection-using-ML/home.png)
+![App Screenshot](https://github.com/jasirkonnola/rag_project/blob/main/Stress-Detection-using-ML/analysis.png)
 ## 🚀 Features
 
 *   **ML-Powered Analysis**: Uses a Random Forest Classifier trained on physiological data (Heart rate, REM, Temperature, etc.) to predict stress levels (0-4).
